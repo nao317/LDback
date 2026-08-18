@@ -24,6 +24,7 @@ backend/
 │       ├── __init__.py
 │       └── rag.py
 ├── docker-compose.yml
+├── pytest.ini
 ├── pyrightconfig.json
 ├── requirements-dev.txt
 ├── requirements.txt
